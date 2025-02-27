@@ -1,0 +1,10 @@
+using System;
+
+class Program {
+    static void Main() {
+        string[] groceries = { "Milk", "Bread", "Eggs", "Apples", "Rice" };
+        foreach (var item in groceries) {
+            Console.WriteLine(item);
+        }
+    }
+}
