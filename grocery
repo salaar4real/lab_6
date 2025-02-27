@@ -5,6 +5,8 @@ class Program {
         string[] groceries = { "Milk", "Bread", "Eggs", "Apples", "Rice" };
         foreach (var item in groceries) {
             Console.WriteLine(item);
+
+Console.WriteLine("Banana");
         }
     }
 }
