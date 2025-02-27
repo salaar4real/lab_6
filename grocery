@@ -6,7 +6,8 @@ class Program {
         foreach (var item in groceries) {
             Console.WriteLine(item);
 
-Console.WriteLine("Banana");
+Console.WriteLine("Juice");
+
         }
     }
 }
